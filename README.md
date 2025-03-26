@@ -1,7 +1,7 @@
 # math-challenge-tricked
 Valid Addition Combinations Finder
 This Python program identifies valid combinations of numbers that satisfy a specific addition algorithm while adhering to constraints. It utilizes:
-
+!!!needs to have fpdf installed (can install by running 'pip install fpdf' in the terminal)
 itertools.permutations: To generate digit permutations for combination testing.
 
 ASCII Art: Displays results in a visually appealing algorithm format.
